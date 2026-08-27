@@ -35,65 +35,6 @@ Cloud Foundry / Integration
  
 ---
  
-🛠️ Tech Stack
- 
-SAP Technologies
- 
-"SAP" (https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-"SAP BTP" (https://img.shields.io/badge/SAP%20BTP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-"SAP CAP" (https://img.shields.io/badge/SAP%20CAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-"SAPUI5" (https://img.shields.io/badge/SAPUI5-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-"Fiori" (https://img.shields.io/badge/SAP%20Fiori-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
-"OData" (https://img.shields.io/badge/OData-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
- 
-Programming
- 
-"JavaScript" (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-"Node.js" (https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-"CDS" (https://img.shields.io/badge/CDS-Enterprise-blue?style=for-the-badge)
- 
-Cloud & DevOps
- 
-"Cloud Foundry" (https://img.shields.io/badge/Cloud%20Foundry-0FAAFF?style=for-the-badge&logo=cloudfoundry&logoColor=white)
-"Git" (https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-"GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
- 
-Databases
- 
-"PostgreSQL" (https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-"SAP HANA" (https://img.shields.io/badge/SAP%20HANA-0FAAFF?style=for-the-badge&logo=sap&logoColor=white)
- 
----
- 
-🏗️ What I Build
- 
-Enterprise SAP Applications
- 
-┌──────────────────────────┐
-│       SAPUI5 / Fiori     │
-│       Frontend Layer     │
-└────────────┬─────────────┘
-             │
-             ▼
-┌──────────────────────────┐
-│       OData V4 API       │
-│      Service Layer       │
-└────────────┬─────────────┘
-             │
-             ▼
-┌──────────────────────────┐
-│        SAP CAP           │
-│    Node.js Backend       │
-└────────────┬─────────────┘
-             │
-       ┌─────┴─────┐
-       ▼           ▼
-┌────────────┐ ┌────────────┐
-│ HANA Cloud │ │ PostgreSQL │
-└────────────┘ └────────────┘
- 
----
- 
 🔥 Featured Projects
  
 📊 SAP BTP Dashboard
@@ -184,15 +125,7 @@ S/4HANA / ECC Integration
 I believe the fastest way to master enterprise development is by building real applications and understanding what happens behind every layer.
  
 ---
- 
-📈 GitHub Stats
- 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Dineshsdh&show_icons=true&theme=tokyonight&hide_border=true" /><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dineshsdh&theme=tokyonight&hide_border=true" /></div>---
- 
-📊 Most Used Languages
- 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dineshsdh&layout=compact&theme=tokyonight&hide_border=true" /></div>---
- 
+
 🤝 Let's Connect
  
 I'm interested in:
